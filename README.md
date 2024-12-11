@@ -74,6 +74,7 @@ wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`.
 * [Kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
 * [Wallutils](https://github.com/xyproto/wallutils) - A set of utilities to manage monitors, resolutions, wallpapers and timed wallpapers
 * [wdisplays](https://github.com/cyclopsian/wdisplays) - GUI display configurator for wlroots compositors
+* [wl-distore](https://github.com/andriyDev/wl-distore) - Saves display configuration changes automatically and restores them on hotplug
 * [wlay](https://github.com/atx/wlay) - Graphical output management for Wayland
 * [wlr-randr](https://github.com/emersion/wlr-randr) - An xrandr clone for wlroots compositors
 
